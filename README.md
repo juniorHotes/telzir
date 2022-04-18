@@ -1,27 +1,15 @@
-# Creathus
+# Telzir
 
-Sua plataforma de cursos online [Acesse agora](https://creathus.herokuapp.com/).
+Provedora de telefonia [Acesse agora](https://creathus.herokuapp.com/).
+
+## Construído com React
 
 ### Libes 
 - Styled-components (Css no javascript) 
     Facilita a manipulação do css, diminui a utilização de classes e é possível utilizar as propriedades do componente.
 - Axios
     Cliente HTTP baseado em promessa.
-- Date-fns 
-    Formatações de datas e horas.
-
-### Estrutura 
-    Estrutura aninhada.
-    Pastas agrupadas por funcionalidades, arquivos js,css e test juntos por componentes.
-    > api (Global)
-    > assets (Global)
-        global styels (css)
-        icons (Global)
-    > components (Global)
-    > public-app (Rotas publicas)
-    > types (Typescript)
-    > utils (Funções reutilizavéis)
-
+    
 ## Como rodar 
 
 ### `npm install`
