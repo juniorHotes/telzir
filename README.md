@@ -2,6 +2,11 @@
 
 Provedora de telefonia.
 
+<p float="left">
+  <img alt="home" src="splash/home.png" width="100%">
+  <img alt="plan" src="splash/plan.png" width="100%">
+</p>
+
 ## Construído com React utilizando
     - React
     - Typescript 
