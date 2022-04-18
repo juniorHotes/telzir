@@ -1,14 +1,15 @@
 # Telzir
 
-Provedora de telefonia [Acesse agora](https://creathus.herokuapp.com/).
+Provedora de telefonia.
 
-## Construído com React
+## Construído com React utilizando
+    - React
+    - Typescript 
+    - React-router-dom
+    - Styled-components 
+    - Axios
 
-### Libes 
-- Styled-components (Css no javascript) 
-    Facilita a manipulação do css, diminui a utilização de classes e é possível utilizar as propriedades do componente.
-- Axios
-    Cliente HTTP baseado em promessa.
+Estrutura pronta para escalar
     
 ## Como rodar 
 
